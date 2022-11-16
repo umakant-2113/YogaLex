@@ -85,7 +85,7 @@ h4 {
 
 // hero-section
 .hero-section {
-  background-image: url('https://preview.colorlib.com/theme/yogalax/images/xbg_2.jpg.pagespeed.ic.YosAR-2enV.webp');
+  background-image: url('./assets//hero\ imag.jpg');
   height: 100vh;
   background-position: left;
   background-repeat: no-repeat;
@@ -219,6 +219,11 @@ h4 {
   }
 }
 // yoga-classes-section
+
+// .yaga-class-img {
+//   height: 200px;
+//   width: 200px;
+// }
 .yoga-classes-section {
   padding: 5rem 0;
 
@@ -344,10 +349,13 @@ h4 {
       width: 70%;
       img {
         border-radius: 50%;
+        height: 166px;
+        width: 166px;
+        // margin-left: 1.25rem;
       }
       div {
         width: 50%;
-
+        margin-left: 2rem;
         strong {
           font-size: 1.5rem;
           text-transform: capitalize;
@@ -420,6 +428,10 @@ h4 {
     width: 28%;
     box-shadow: 0px 1px 1px 0px rgba(128, 128, 128, 0.451);
     // border: 1px solid green;
+    img {
+      height: 240px;
+      border-radius: 10px;
+    }
     .day-year-div {
       // border: 5px solid blue;
       align-items: center;
@@ -461,7 +473,7 @@ h4 {
     .col-one {
       width: 23%;
       height: 18rem;
-      background-image: url('https://preview.colorlib.com/theme/yogalax/images/xgallery-1.jpg.pagespeed.ic.qGwFQX8rGk.webp');
+      background-image: url('./assets/13.jpg');
       background-position: center;
       background-repeat: no-repeat;
       background-size: cover;
@@ -486,10 +498,10 @@ h4 {
       background-image: url('https://media.istockphoto.com/photos/indian-teenager-girl-doing-yoga-meditation-in-park-stock-photo-picture-id1293616558?k=20&m=1293616558&s=612x612&w=0&h=pMHDJKL0GK6QxdgDG5ACAVwghDpq0MAZpAb5KC_AE-Q=');
     }
     .col-three {
-      background-image: url('https://preview.colorlib.com/theme/yogalax/images/xgallery-3.jpg.pagespeed.ic.EpaoxMuRpX.webp');
+      background-image: url('./assets/14.jpg');
     }
     .col-four {
-      background-image: url('https://preview.colorlib.com/theme/yogalax/images/xgallery-2.jpg.pagespeed.ic.5MoahU_N3G.webp');
+      background-image: url('./assets/15.jpg');
     }
   }
 }

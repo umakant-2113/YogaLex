@@ -488,7 +488,7 @@ h4 {
 }
 
 .hero-section {
-  background-image: url("https://preview.colorlib.com/theme/yogalax/images/xbg_2.jpg.pagespeed.ic.YosAR-2enV.webp");
+  background-image: url("./assets//hero imag.jpg");
   height: 100vh;
   background-position: left;
   background-repeat: no-repeat;
@@ -741,9 +741,12 @@ h4 {
 }
 .TESTIMONY-section .container .address-div img {
   border-radius: 50%;
+  height: 166px;
+  width: 166px;
 }
 .TESTIMONY-section .container .address-div div {
   width: 50%;
+  margin-left: 2rem;
 }
 .TESTIMONY-section .container .address-div div strong {
   font-size: 1.5rem;
@@ -808,6 +811,10 @@ h4 {
   width: 28%;
   box-shadow: 0px 1px 1px 0px rgba(128, 128, 128, 0.451);
 }
+.blog-section .blog-div img {
+  height: 240px;
+  border-radius: 10px;
+}
 .blog-section .blog-div .day-year-div {
   align-items: center;
   padding: 0 2rem;
@@ -843,7 +850,7 @@ h4 {
 .gallary-section .gallery-div .col-one {
   width: 23%;
   height: 18rem;
-  background-image: url("https://preview.colorlib.com/theme/yogalax/images/xgallery-1.jpg.pagespeed.ic.qGwFQX8rGk.webp");
+  background-image: url("./assets/13.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -866,10 +873,10 @@ h4 {
   background-image: url("https://media.istockphoto.com/photos/indian-teenager-girl-doing-yoga-meditation-in-park-stock-photo-picture-id1293616558?k=20&m=1293616558&s=612x612&w=0&h=pMHDJKL0GK6QxdgDG5ACAVwghDpq0MAZpAb5KC_AE-Q=");
 }
 .gallary-section .gallery-div .col-three {
-  background-image: url("https://preview.colorlib.com/theme/yogalax/images/xgallery-3.jpg.pagespeed.ic.EpaoxMuRpX.webp");
+  background-image: url("./assets/14.jpg");
 }
 .gallary-section .gallery-div .col-four {
-  background-image: url("https://preview.colorlib.com/theme/yogalax/images/xgallery-2.jpg.pagespeed.ic.5MoahU_N3G.webp");
+  background-image: url("./assets/15.jpg");
 }
 
 footer {
